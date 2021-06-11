@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on 雨</title>
-    <link>https://felid.github.io/zh/archive/</link>
+    <link>https://felidz.github.io/zh/archive/</link>
     <description>Recent content in Archive on 雨</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>©2021, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="https://felid.github.io/zh/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://felidz.github.io/zh/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       

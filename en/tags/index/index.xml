@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Someday in the Rain</title>
-    <link>https://felid.github.io/en/tags/index/</link>
+    <link>https://felidz.github.io/en/tags/index/</link>
     <description>Recent content in index on Someday in the Rain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,17 +15,17 @@
     <webMaster>felid@protonmail.com (Felid)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
     
-        <atom:link href="https://felid.github.io/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://felidz.github.io/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>https://felid.github.io/en/posts/</link>
+        <link>https://felidz.github.io/en/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>felid@protonmail.com (Felid)</author>
         
-        <guid>https://felid.github.io/en/posts/</guid>
+        <guid>https://felidz.github.io/en/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
