@@ -13,7 +13,7 @@
     <language>en</language>
     <managingEditor>felid@protonmail.com (Felid)</managingEditor>
     <webMaster>felid@protonmail.com (Felid)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <copyright>©2018~2021, All Rights Reserved.</copyright>
     <lastBuildDate>Thu, 19 Dec 2019 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://felidz.github.io/en/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
@@ -22,11 +22,11 @@
       
       <item>
         <title>Rich Content</title>
-        <link>https://felidz.github.io/en/posts/rich-content/</link>
+        <link>https://felidz.github.io/en/blog/rich-content/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>felid@protonmail.com (Felid)</author>
         <atom:modified>Thu, 19 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://felidz.github.io/en/posts/rich-content/</guid>
+        <guid>https://felidz.github.io/en/blog/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
         
         <dc:creator>Lee</dc:creator>

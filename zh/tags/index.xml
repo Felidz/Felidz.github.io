@@ -6,19 +6,37 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Tags on 雨</title>
+    <title>Tags on 🌧️雨隙</title>
     <link>https://felidz.github.io/zh/tags/</link>
-    <description>Recent content in Tags on 雨</description>
+    <description>Recent content in Tags on 🌧️雨隙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>felid@protonmail.com (Felid)</managingEditor>
     <webMaster>felid@protonmail.com (Felid)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <copyright>©2018~2021, All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
         <atom:link href="https://felidz.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>shortcode</title>
+        <link>https://felidz.github.io/zh/tags/shortcode/</link>
+        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
+        <author>felid@protonmail.com (Felid)</author>
+        
+        <guid>https://felidz.github.io/zh/tags/shortcode/</guid>
+        <description></description>
+        
+        <dc:creator>Felid</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>css</title>
@@ -81,6 +99,42 @@
         <author>felid@protonmail.com (Felid)</author>
         
         <guid>https://felidz.github.io/zh/tags/themes/</guid>
+        <description></description>
+        
+        <dc:creator>Felid</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>privacy</title>
+        <link>https://felidz.github.io/zh/tags/privacy/</link>
+        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
+        <author>felid@protonmail.com (Felid)</author>
+        
+        <guid>https://felidz.github.io/zh/tags/privacy/</guid>
+        <description></description>
+        
+        <dc:creator>Felid</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>shortcodes</title>
+        <link>https://felidz.github.io/zh/tags/shortcodes/</link>
+        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
+        <author>felid@protonmail.com (Felid)</author>
+        
+        <guid>https://felidz.github.io/zh/tags/shortcodes/</guid>
         <description></description>
         
         <dc:creator>Felid</dc:creator>
@@ -189,6 +243,24 @@
         <author>felid@protonmail.com (Felid)</author>
         
         <guid>https://felidz.github.io/zh/tags/namoji/</guid>
+        <description></description>
+        
+        <dc:creator>Felid</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>diagram</title>
+        <link>https://felidz.github.io/zh/tags/diagram/</link>
+        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
+        <author>felid@protonmail.com (Felid)</author>
+        
+        <guid>https://felidz.github.io/zh/tags/diagram/</guid>
         <description></description>
         
         <dc:creator>Felid</dc:creator>

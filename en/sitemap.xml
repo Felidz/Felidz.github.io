@@ -38,24 +38,59 @@
     <loc>https://felidz.github.io/en/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://felidz.github.io/en/posts/</loc>
+    <loc>https://felidz.github.io/en/blog/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://felidz.github.io/zh/posts/"
+                href="https://felidz.github.io/zh/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://felidz.github.io/en/posts/"
+                href="https://felidz.github.io/en/blog/"
                 />
   </url><url>
     <loc>https://felidz.github.io/en/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/tags/shortcode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/shortcode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/tags/shortcode/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/shortcodes/</loc>
+    <loc>https://felidz.github.io/en/blog/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/blog/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/blog/shortcodes/"
+                />
   </url><url>
     <loc>https://felidz.github.io/en/tags/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
@@ -108,6 +143,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://felidz.github.io/en/tags/css/"
                 />
@@ -118,6 +158,11 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://felidz.github.io/zh/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -134,21 +179,31 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://felidz.github.io/en/tags/markdown/"
                 />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/markdown-syntax/</loc>
+    <loc>https://felidz.github.io/en/blog/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://felidz.github.io/zh/posts/markdown-syntax/"
+                href="https://felidz.github.io/zh/blog/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://felidz.github.io/en/posts/markdown-syntax/"
+                href="https://felidz.github.io/en/blog/markdown-syntax/"
                 />
   </url><url>
     <loc>https://felidz.github.io/en/series/</loc>
@@ -178,6 +233,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://felidz.github.io/en/categories/syntax/"
                 />
@@ -188,6 +248,11 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://felidz.github.io/zh/tags/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -204,6 +269,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://felidz.github.io/en/categories/themes/"
                 />
@@ -217,18 +287,68 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://felidz.github.io/en/series/themes-guide/"
                 />
   </url><url>
     <loc>https://felidz.github.io/en/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/tags/privacy/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/rich-content/</loc>
+    <loc>https://felidz.github.io/en/blog/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/blog/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/blog/rich-content/"
+                />
   </url><url>
     <loc>https://felidz.github.io/en/tags/shortcodes/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/tags/shortcodes/"
+                />
   </url><url>
     <loc>https://felidz.github.io/en/tags/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
@@ -236,6 +356,11 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://felidz.github.io/zh/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -252,34 +377,49 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/categories/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://felidz.github.io/en/categories/hugo/"
                 />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/syntax-highlight/</loc>
+    <loc>https://felidz.github.io/en/blog/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://felidz.github.io/zh/posts/syntax-highlight/"
+                href="https://felidz.github.io/zh/blog/syntax-highlight/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/syntax-highlight/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://felidz.github.io/en/posts/syntax-highlight/"
+                href="https://felidz.github.io/en/blog/syntax-highlight/"
                 />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/math-typesetting/</loc>
+    <loc>https://felidz.github.io/en/blog/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://felidz.github.io/zh/posts/math-typesetting/"
+                href="https://felidz.github.io/zh/blog/math-typesetting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://felidz.github.io/en/posts/math-typesetting/"
+                href="https://felidz.github.io/en/blog/math-typesetting/"
                 />
   </url><url>
     <loc>https://felidz.github.io/en/tags/amoji/</loc>
@@ -288,6 +428,11 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://felidz.github.io/zh/tags/amoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/amoji/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -304,6 +449,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/bamoji/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://felidz.github.io/en/tags/bamoji/"
                 />
@@ -317,21 +467,31 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/emoji/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://felidz.github.io/en/tags/emoji/"
                 />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/emoji-support/</loc>
+    <loc>https://felidz.github.io/en/blog/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://felidz.github.io/zh/posts/emoji-support/"
+                href="https://felidz.github.io/zh/blog/emoji-support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://felidz.github.io/en/posts/emoji-support/"
+                href="https://felidz.github.io/en/blog/emoji-support/"
                 />
   </url><url>
     <loc>https://felidz.github.io/en/tags/gamoji/</loc>
@@ -340,6 +500,11 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://felidz.github.io/zh/tags/gamoji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/gamoji/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -356,51 +521,266 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/namoji/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://felidz.github.io/en/tags/namoji/"
                 />
   </url><url>
     <loc>https://felidz.github.io/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/categories/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/categories/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/categories/diagram/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/test-viz/</loc>
+    <loc>https://felidz.github.io/en/blog/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/blog/test-viz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/test-viz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/blog/test-viz/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/test-wavedrom/</loc>
+    <loc>https://felidz.github.io/en/blog/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/blog/test-wavedrom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/test-wavedrom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/blog/test-wavedrom/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/test-chartjs/</loc>
+    <loc>https://felidz.github.io/en/blog/test-chartjs/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/blog/test-chartjs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/test-chartjs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/blog/test-chartjs/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/test-js-sequence-diagrams/</loc>
+    <loc>https://felidz.github.io/en/blog/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/blog/test-js-sequence-diagrams/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/test-js-sequence-diagrams/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/blog/test-js-sequence-diagrams/"
+                />
   </url><url>
     <loc>https://felidz.github.io/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/tags/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/tags/diagram/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/test-mermaid/</loc>
+    <loc>https://felidz.github.io/en/blog/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/blog/test-mermaid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/test-mermaid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/blog/test-mermaid/"
+                />
   </url><url>
     <loc>https://felidz.github.io/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/categories/math/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/categories/math/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/categories/math/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/test-mathjax/</loc>
+    <loc>https://felidz.github.io/en/blog/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/blog/test-mathjax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/test-mathjax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/blog/test-mathjax/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/test-katex/</loc>
+    <loc>https://felidz.github.io/en/blog/test-katex/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/blog/test-katex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/test-katex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/blog/test-katex/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/posts/test-flowchart/</loc>
+    <loc>https://felidz.github.io/en/blog/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/blog/test-flowchart/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/blog/test-flowchart/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/blog/test-flowchart/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/gallery/cartoon/</loc>
+    <loc>https://felidz.github.io/en/collection/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/collection/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/collection/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/collection/cartoon/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/gallery/</loc>
+    <loc>https://felidz.github.io/en/collection/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/collection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/collection/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/collection/"
+                />
   </url><url>
-    <loc>https://felidz.github.io/en/gallery/photo/</loc>
+    <loc>https://felidz.github.io/en/collection/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://felidz.github.io/zh/collection/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/collection/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://felidz.github.io/en/collection/photo/"
+                />
   </url><url>
     <loc>https://felidz.github.io/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
@@ -423,6 +803,11 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://felidz.github.io/zh/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/archive/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -457,6 +842,11 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://felidz.github.io/zh/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://felidz.github.io/ja/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
